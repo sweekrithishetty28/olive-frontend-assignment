@@ -110,6 +110,6 @@ The design is based on a screenshot from [oliveapp.com](https://www.oliveapp.com
 
 ## 👤 Author
 
-**Amol**
-📧 your-email@example.com
-🔗 [LinkedIn](https://linkedin.com/in/your-profile)
+**Sweekrithi Shetty**
+📧 sweekrithishetty1@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/sweekrithi-shetty28/)
